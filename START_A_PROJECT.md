@@ -216,10 +216,8 @@ If you're reading this online, start by cloning this repository to your computer
 
 ```
 claude
-> Clone https://github.com/PLACEHOLDER/claude-basics.git into my projects folder
+> Clone https://github.com/FreshDiversion/claude-basics.git into my projects folder
 ```
-
-<!-- TODO: Replace PLACEHOLDER with the actual repo URL once published -->
 
 Claude will clone the repo and confirm when it's done. You now have a local copy of this guide, the cheat sheet, and the deep dives — all searchable and updatable.
 

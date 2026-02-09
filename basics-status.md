@@ -54,7 +54,7 @@
 - Quick Start Checklist at the bottom may need updating to reflect the new step order and plan mode workflow
 - Verify all cross-references to deep dives still work
 - Consider: should the guide walk through deploying the portfolio site as a final step?
-- TODO: Replace PLACEHOLDER repo URL in "Clone This Guide" section once published
+- ~~TODO: Replace PLACEHOLDER repo URL~~ — Done: `FreshDiversion/claude-basics`
 
 ---
 
