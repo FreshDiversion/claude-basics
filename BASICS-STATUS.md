@@ -6,7 +6,7 @@
 |------|-------|-------------|--------|
 | `CLAUDE_CODE_CHEATSHEET.md` | ~984 | 2026-02-09 | Current |
 | `CLAUDE_CODE_DEEP_DIVES.md` | ~2020 | 2026-02-09 | Current |
-| `START_A_PROJECT.md` | ~830 | 2026-02-09 | Current |
+| `START_A_PROJECT.md` | ~828 | 2026-02-09 | Current |
 
 ## Deep Dive Topics
 
